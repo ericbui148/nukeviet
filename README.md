@@ -1,40 +1,46 @@
-# Space-CMS
-Space CMS is a Content Management System. Space CMS is the best open source content management system in Vietnam. We provide a simple, high-speed CMS to deploy and grow your business.
-The lastest version - Space CMS 1.0 coding ground up support lastest web technologies, include reponsive web design (use HTML 5, CSS 3, Composer), jQuery, Ajax...) enables you to build websites and online applications rapidly.
+# Introduction about NukeViet
+NukeViet is the first opensource CMS in Vietnam. The lastest version - NukeViet 4 coding ground up support lastest web technologies, include reponsive web design (use HTML 5, CSS 3, Composer, XTemplate), jQuery, Ajax...) enables you to build websites and online applications rapidly.
 
-With it own core libraries built in, Space CMS 1.0 is cross platforms and frameworks independent. By basic knowledge of PHP and MySQL, you can easily extend Space CMS for your purposes.
+With it own core libraries built in, NukeViet 4 is cross platforms and frameworks independent. By basic knowledge of PHP and MySQL, you can easily extend NukeViet for your purposes.
 
-Space CMS core is simply but powerful. It supports abstract modules which can be duplicate. So, it helps you create automatically many modules without any line of code from existing abstract modules.
+NukeViet core is simply but powerful. It supports abstract modules which can be duplicate. So, it helps you create automatically many modules without any line of code from existing abstract modules.
 
-Space CMS supports installing automatically modules, blocks, themes at Admin Control Panel and supports packing features which allow you to share your modules to web- community.
+NukeViet supports installing automatically modules, blocks, themes at Admin Control Panel and supports packing features which allow you to share your modules to web- community.
 
-Space CMS fully supports multi-languages for internationalization and localization. Not only multi-interface languages but also multi-database languages are supported. Space CMS supports you to build new languages which are not distributed by Space CMS.
+NukeViet fully supports multi-languages for internationalization and localization. Not only multi-interface languages but also multi-database languages are supported. NukeViet supports you to build new languages which are not distributed by NukeViet.
 
+Detailed information about Nukeviet at Wikipedia Encyclopedia: http://vi.wikipedia.org/wiki/NukeViet
 
 ## Licensing
-Space CMS is released under GNU/GPL version 2 or any later version.
+NukeViet is released under GNU/GPL version 2 or any later version.
 
 See [LICENSE](LICENSE) for the full license.
 
-## Space CMS official website
-  - Home page - link to all resources Space CMS: http://webspace.vn
-  - Space CMS official Coding: http://webspace.vn
-  - Theme, Module and more add-ons for Space CMS: http://webspace.vn/store
-  - Space CMS official Forum http://forum.webspace.vn
-  - Open Document Library for Space CMS: http://wiki.webspace.vn/
+## NukeViet official website
+  - Home page - link to all resources NukeViet: http://nukeviet.vn (select Vietnamese to have the latest information).
+  - NukeViet official Coding: http://code.nukeviet.vn
+  - Theme, Module and more add-ons for NukeViet: http://nukeviet.vn/vi/store/
+  - NukeViet official Forum http://forum.nukeviet.vn/
+  - Open Document Library for NukeViet: http://wiki.nukeviet.vn/
+  - NukeViet Translate Center: http://translate.nukeviet.vn/
+  - NukeViet partner: http://nukeviet.vn/vi/partner/
+  - NukeViet Education Center: http://nukeviet.edu.vn
+  - NukeViet SaaS: http://nukeviet.com (testing)
 
 ## Community
-  - Space CMS Fanpage: http://facebook.com/spacecms
-  - Space CMS group on FB: https://www.facebook.com/groups/spacecms
-  - http://twitter.com/spacecms
+  - NukeViet Fanpage: http://facebook.com/nukeviet
+  - NukeViet group on FB: https://www.facebook.com/groups/nukeviet/
+  - http://twitter.com/nukeviet
+  - https://groups.google.com/forum/?fromgroups#!forum/nukeviet
+  - http://google.com/+nukeviet
 
 
 
-## Space CMS Centre for Research and Development
-TIEN HIEP CLOUD COMPUTING COMPANY LIMITED (TH CLOUD LTD., CO)
+## NukeViet Centre for Research and Development
+VIETNAM OPEN SOURCE DEVELOPMENT JOINT STOCK COMPANY (VINADES.,JSC)
 
-Website: http://webspace.vn
+Website: http://vinades.vn | http://nukeviet.vn | http://nukeviet.com
 
 Head Office:
-  - 231 Dien Bien Phu Street, Ward 06, District 03, Ho Chi Minh City, Vietnam
-  - Phone: (+84) 973 780 117, Email: contact (at) webspace.vn
+  - Room 1706 - CT2 Nang Huong Building, 583 Nguyen Trai st, Ha Dong dist, Hanoi, Vietnam.
+  - Phone: +84-24-85872007, Fax: +84-24-35500914, Email: contact (at) vinades.vn
